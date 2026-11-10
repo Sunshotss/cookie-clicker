@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\25TE_InfoMedia\\Documents\\github\\cookie-clicker\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50B68F54-2091-1C40-497A-0E9B3D2C9612}|cookie clicker\\cookie clicker.csproj|c:\\users\\25te_infomedia\\documents\\github\\cookie-clicker\\cookie clicker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B68F54-2091-1C40-497A-0E9B3D2C9612}|cookie clicker\\cookie clicker.csproj|solutionrelative:cookie clicker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\25TE_InfoMedia\\Documents\\github\\cookie-clicker\\cookie clicker\\Program.cs",
+              "RelativeDocumentMoniker": "cookie clicker\\Program.cs",
+              "ToolTip": "C:\\Users\\25TE_InfoMedia\\Documents\\github\\cookie-clicker\\cookie clicker\\Program.cs",
+              "RelativeToolTip": "cookie clicker\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T14:00:31.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
